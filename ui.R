@@ -1,6 +1,6 @@
 library(shiny)
 library(shinythemes)
-
+library(markdown)
 
 ####################################
 # User Interface                   #

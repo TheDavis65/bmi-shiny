@@ -5,7 +5,7 @@ library(shinythemes)
 ####################################
 # User Interface                   #
 ####################################
-ui <- fluidPage(theme = shinytheme("spacelab"),
+ui <- fluidPage(theme = shinytheme("darkly"),
                 navbarPage("BMI Calculator:",
                            
                            tabPanel("Home",
